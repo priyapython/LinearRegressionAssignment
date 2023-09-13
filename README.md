@@ -1,2 +1,2 @@
 # LinearRegressionAssignment
-Book Bikes project
+Boom Bikes project
